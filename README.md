@@ -39,9 +39,9 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![output](/OUTPUT1.jpg)
-![output](/OUTPUT2.jpg)
-![output](/OUTPUT3.jpg)
+![OUTPUT1](https://github.com/23014282/Ex-no-7/assets/150009571/3f2ca18c-a28c-4d18-9e37-deac615c9602)
+![OUTPUT2](https://github.com/23014282/Ex-no-7/assets/150009571/172cebd4-3b8b-4848-9820-9e8860e1afd3)
+![OUTPUT3](https://github.com/23014282/Ex-no-7/assets/150009571/c571062e-ab95-4f43-a5cd-14b525004132)
 
 
 ### Name: A.JEEVITH
